@@ -1,0 +1,8 @@
+searchsploit <service>
+if you find one you want to read or inspect the code you can type this
+searchsploit -m <number assigned to script like 47271>
+then you can vim 57471.py or whatever number it is
+
+To run it against a target
+chmod +x 38317.py
+python3 38317.py <target ip>
